@@ -1,6 +1,6 @@
 # The Eyes Exercise <br>
 ## Description
-This a fun exercise that creates a web page with two on screen eyes that follow the movement of the mouse.br>
+This a fun exercise that creates a web page with two on screen eyes that follow the movement of the mouse.<br>
 ## Getting Started
 This project will require the use of any internet browser and a code editor of choice.<br>
 ## Help
